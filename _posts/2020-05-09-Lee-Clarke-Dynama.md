@@ -1,29 +1,9 @@
 ---
-title:  "Exclude Post from Search Index"
-search: false
+title:  "Lee Clarke - Dynama Solutions"
+search: true
 categories: 
-  - Jekyll
-last_modified_at: 2018-02-19T08:06:00-05:00
+  - Testimonials
+last_modified_at: 2021-01-28T00:00:00-00:00
 ---
 
-This post should not appear in the search index because it has the following YAML Front Matter:
-
-```yaml
-search: false
-```
-
-**Note:** `search: false` only works to exclude posts when using Lunr as a search provider.
-{: .notice--info}
-
-To exclude files when using Algolia as a search provider add an array to `algolia.files_to_exclude` in your `_config.yml`. For more configuration options be sure to check their [full documentation](https://community.algolia.com/jekyll-algolia/options.html).
-
-```yaml
-algolia:
-  # Exclude more files from indexing
-  files_to_exclude:
-    - index.html
-    - index.md
-    - excluded-file.html
-    - _posts/2017-11-28-post-exclude-search.md
-    - subdirectory/*.html
-```
+I have worked with Dan on a professional basis for several years.  As a Consultant, Dan is exceptional in his attention to detail and great in dealing with end users who know what they want but can’t always translate that into workable requirements.  As a Project Manager, Dan is not only qualified, but brings many years experience working with a range of organisations.  As anyone who has worked on larger projects can tell you, good governance, informed stakeholders and clear objectives are essential in achieving successful outcomes.  Dan communicates risks clearly and helps navigate obstacles that invariably appear in projects and does so in a professional and respectful way.  When I have needed flexibility, Dan has provided it.
