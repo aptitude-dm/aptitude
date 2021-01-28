@@ -5,9 +5,6 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/light-bulb-1246043_1280.jpg
-#  actions:
-#    - label: "<i class='fas fa-download'></i> Install now"
-#      url: "/docs/quick-start-guide/"
 excerpt: >
   Providing Project Management and Business Analysis solutions to meet your needs.<br />
 feature_row:
