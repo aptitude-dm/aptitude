@@ -23,7 +23,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Testimonials"
-    url: /year-archive/
+    url: /testimonials/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 

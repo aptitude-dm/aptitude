@@ -74,7 +74,7 @@ og_image                 : "/assets/images/AptitudeLogo.PNG" # Open Graph/Twitte
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person # Person or Organization (defaults to Person)
-  name                   : Dan Markou# If the user or organization name differs from the site's name
+  name                   : Dan Markou # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://linkedin.com/in/dan-markou-aptitude"
 
