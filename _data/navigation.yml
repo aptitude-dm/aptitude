@@ -24,8 +24,6 @@ main:
     url: /about/
   - title: "Testimonials"
     url: /testimonials/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
 
 
 # documentation links
