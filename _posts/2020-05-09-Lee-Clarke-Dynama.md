@@ -2,7 +2,7 @@
 title:  "Lee Clarke - Dynama Solutions"
 search: true
 categories: 
-  - Testimonials
+  - testimonials
 last_modified_at: 2021-01-28T00:00:00-00:00
 ---
 
