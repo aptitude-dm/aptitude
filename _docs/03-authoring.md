@@ -9,3 +9,5 @@ toc: true
 ---
 
 [Add information about technical authoring]
+
+{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
