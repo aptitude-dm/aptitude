@@ -1,5 +1,5 @@
 {
-  "name": "jekyll-test-site"
+  "name": "aptitude"
 , "files": [ { "git": 1 } ]
 , "index": true
 }
