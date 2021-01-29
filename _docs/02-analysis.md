@@ -8,4 +8,10 @@ redirect_from:
 toc: true
 ---
 
-[Add information about business analysis]
+We can work with you and your team(s) to understand your challenges and the inevitable opportunities for improvement. Using this information, we will work with you to scope and implement the change needed to increase your performance.
+
+- Requirements gathering and validation
+- Process mapping
+- Gap analysis
+
+{: style="text-align: justify;"}

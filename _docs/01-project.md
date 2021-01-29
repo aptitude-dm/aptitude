@@ -8,4 +8,13 @@ redirect_from:
 toc: true
 ---
 
-[Add information about project management]
+We have extensive experience in delivering a wide variety of projects including organisational change, digitisation, software implementation and subsea engineering & construction.
+
+We will work with you to understand your desired outcomes, success criteria and constraints. With this information we will agree a scope and plan to deliver the solution that best meets your needs.
+
+- Project Management Institute (PMI) PMP certified
+- Commercial and vendor management
+- Project services and controls
+- Conventional and agile methodologies
+
+{: style="text-align: justify;"}

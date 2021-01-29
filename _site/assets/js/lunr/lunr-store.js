@@ -1,18 +1,18 @@
 var store = [{
         "title": "Project Management",
-        "excerpt":"[Add information about project management]  ","categories": [],
+        "excerpt":"We have extensive experience in delivering a wide variety of projects including organisational change, digitisation, software implementation and subsea engineering &amp; construction.   We will work with you to understand your desired outcomes, success criteria and constraints. With this information we will agree a scope and plan to deliver the solution that best meets your needs.      Project Management Institute (PMI) PMP certified   Commercial and vendor management   Project services and controls   Conventional and agile methodologies   ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/docs/projects/",
         "teaser": null
       },{
         "title": "Business Analysis",
-        "excerpt":"[Add information about business analysis]  ","categories": [],
+        "excerpt":"We can work with you and your team(s) to understand your challenges and the inevitable opportunities for improvement. Using this information, we will work with you to scope and implement the change needed to increase your performance.      Requirements gathering and validation   Process mapping   Gap analysis   ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/docs/analysis/",
         "teaser": null
       },{
         "title": "Technical Authoring",
-        "excerpt":"[Add information about technical authoring]                                                                                                                                Examples of included layouts splash, single, and archive.       ","categories": [],
+        "excerpt":"We are skilled in understanding complex technical information and translating into clear, concise documentation.      Training materials   Instruction manuals   Requirements and solution specifications   System and process diagrams     ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/docs/authoring/",
         "teaser": null
